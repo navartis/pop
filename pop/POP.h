@@ -26,5 +26,7 @@
 #import <pop/POPLayerExtras.h>
 #import <pop/POPPropertyAnimation.h>
 #import <pop/POPSpringAnimation.h>
+#import <pop/POPSpringSolver.h>
+#import <pop/POPVector.h>
 
 #endif /* POP_POP_H */
