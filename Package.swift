@@ -6,7 +6,6 @@ let package = Package(
     name: "pop",
     platforms: [
         .iOS(.v8),
-        .macOS("10.8"),
         .tvOS(.v9),
     ],
     products: [
